@@ -1,0 +1,14 @@
+# 构建产物
+dist/
+bin/
+obj/
+
+# 临时文件
+*.pclfix.tmp
+*.bak
+*.user
+*.suo
+.vs/
+
+# 工具自身在受限环境下的回退目录
+pclfix_*/
